@@ -12,7 +12,7 @@ Video of the training on the Python library Pandas: [youtube.com/watch?v=kTL-Cet
 Events: [centraleia.fr/evenements](https://centraleia.fr/evenements/) and [centraleia.fr/conference](https://centraleia.fr/conference/)
 
 <p float="left">
-	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/1.Les_bases_1-Numpy/Numpy-librairie_calcul_optimise.ipynb" rel="formation numéro 1 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="499px" src="Zaamine/images/affiche_formation_1.png" /></a>
-	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/2.Les_bases_2-Pandas/Pandas_librairie_analyse_donnees.ipynb" rel="formation numéro 2 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="499px" src="Zaamine/images/affiche_formation_2.jpg" /></a>
-	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="499px" src="Zaamine/images/affiche_formation_5.png" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/1.Les_bases_1-Numpy/Numpy-librairie_calcul_optimise.ipynb" rel="formation numéro 1 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 1 Centrale IA Amine Zaamoun" width="499px" src="Zaamine/Zaamine/tree/main/images/affiche_formation_1.png" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/2.Les_bases_2-Pandas/Pandas_librairie_analyse_donnees.ipynb" rel="formation numéro 2 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 2 Centrale IA Amine Zaamoun" width="499px" src="Zaamine/Zaamine/tree/main/images/images/affiche_formation_2.jpg" /></a>
+	<a href="https://github.com/Zaamine/Centrale_AI/blob/main/5.Interpretabilite_et_ML/Interpretabilite_des_modeles_de_ML.ipynb" rel="formation numéro 5 Centrale IA Amine Zaamoun"><img alt="Affiche formation numéro 5 Centrale IA Amine Zaamoun" width="499px" src="Zaamine/Zaamine/tree/main/images/images/affiche_formation_5.png" /></a>
 </p>
