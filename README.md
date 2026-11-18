@@ -1,4 +1,4 @@
-# [Management of the training division of Centrale AI](https://github.com/Zaamine/Centrale_AI)
+# Management of the training division of Centrale AI
 Repo of the training course I set up and presented at Centrale AI, the Data Science and Artificial Intelligence student association organization at my Engineering school.
 
 Former Training Manager of the “Centrale AI” association (“Centrale IA” in French) constituted in accordance with the French law of 1901 concerning non-profit organizations, allowing students of the Ecole Centrale de Lille to discover the Artificial Intelligence and Data Science's world:
